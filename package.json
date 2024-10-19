@@ -1,0 +1,16 @@
+{
+  "name": "smart_claimer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@youpaichris/logger": "^6.1.1",
+    "ethers": "^5.7.2"
+  }
+}
