@@ -1,6 +1,6 @@
 # SmartToken Claim 脚本 
 ![twitter](https://img.shields.io/twitter/follow/0xNaiXi?style=social)
-![twitter](https://img.shields.io/twitter/follow/ChrisNoCaptcha?style=social)
+![twitter](https://img.shields.io/twitter/follow/0xJebe?style=social)
 
 
 ## 介绍
